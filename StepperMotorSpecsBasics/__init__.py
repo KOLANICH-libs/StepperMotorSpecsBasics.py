@@ -1,6 +1,9 @@
 import typing
 from enum import IntEnum
 from math import sqrt
+from warnings import warn
+
+warn("We have moved from M$ GitHub to https://codeberg.org/KOLANICH-libs/StepperMotorSpecsBasics.py , read why on https://codeberg.org/KOLANICH/Fuck-GuanTEEnomo .")
 
 SQRT2 = sqrt(2)
 SQRT2_INV = 1.0 / SQRT2
